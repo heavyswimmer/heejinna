@@ -1,5 +1,3 @@
-### Hi there, I'm Heejin 👋🏻
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinna&langs_count=8)](https://github.com/heejinna/github-readme-stats)
 
 <!--
