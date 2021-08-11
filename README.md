@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Heejin%20Na&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Heejin%20Na&fontSize=90)
 
 <h3 align="center">👋🏻 Hi there!</h3>
 <p align="center">
@@ -34,7 +34,7 @@ Daily Routine : 🐈 👩🏻‍💻 🏃🏻‍♀
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=%20&fontSize=90)
 
 
 <!--
