@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Heejin%20Na&fontSize=90)
 
-<h3 align="center">👋🏻 Hi there!</h3>
+<h3 align="center">👋🏻 Hi there !</h3>
 <p align="center">
 I'm Heejin Na, a growing developer. 🌱 <br>
-Daily Routine : 🐈 👩🏻‍💻 🏃🏻‍♀
+Daily Routine = 🐈 👩🏻‍💻 🏃🏻‍♀
 </p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
