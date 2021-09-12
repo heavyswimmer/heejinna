@@ -1,5 +1,5 @@
 <p>
-  <a href="https://velog.io/@hourlyheejin" target="_blank"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="https://velog.io/@hourlyheejin" target="_blank"><img src="https://img.shields.io/badge/Blog-3DDC84?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:developer.heejin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/developer.heejin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="www.linkedin.com/in/HeejinNa" target="_blank"><img src="https://img.shields.io/badge/HeejinNa-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
