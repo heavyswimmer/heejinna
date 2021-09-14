@@ -6,8 +6,9 @@
 </p>
 
 <p>
- 👋&nbsp; Hi there! I'm a growing developer</b> using JavaScript.🌱 <br/>
-  My daily routine = 🐈 👩🏻‍💻 🏃🏻‍♀ <br/><br/>
+ 👋&nbsp; Hi there! I'm a growing developer</b> and currently learning JavaScript.🌱 <br>
+  I'm interested in improving quality of life. ✨ <br>
+  My daily routine = 🐈 👩🏻‍💻 🏃🏻‍♀ <br><br>
 </p>
 
 ### 💪 Skills
