@@ -1,15 +1,3 @@
-<p>
-  <a href="https://velog.io/@devheejin" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:heejin.info@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <!--<a href="https://twitter.com/bonnyandhee" target="_blank"><img src="https://img.shields.io/badge/bonnyandhee-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>-->
-</p>
-
-<p>
- 👋&nbsp; Hi there! I'm a growing developer</b> and currently learning JavaScript.🌱 <br>
-  I'm interested in improving quality of life. ✨ <br>
-  My daily routine = 🐈 👩🏻‍💻 🏃🏻‍♀ <br><br>
-</p>
-
 ### 💪 Skills
 #### Platforms & Languages
 <p> 
